@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Pool Tournament",
+    "slug": "pool-tournament",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.example.pooltournament", "versionCode": 1 }
+  }
+}
